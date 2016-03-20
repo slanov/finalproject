@@ -1,0 +1,5 @@
+/Users/aslana/Documents/Projects/finalprojectprog1v2/finalprojectprog1v2/obj/x86/Debug/.NETFramework,Version=v4.5.AssemblyAttribute.cs
+/Users/aslana/Documents/Projects/finalprojectprog1v2/finalprojectprog1v2/bin/Debug/finalprojectprog1v2.exe.mdb
+/Users/aslana/Documents/Projects/finalprojectprog1v2/finalprojectprog1v2/bin/Debug/finalprojectprog1v2.exe
+/Users/aslana/Documents/Projects/finalprojectprog1v2/finalprojectprog1v2/obj/x86/Debug/finalprojectprog1v2.exe
+/Users/aslana/Documents/Projects/finalprojectprog1v2/finalprojectprog1v2/obj/x86/Debug/finalprojectprog1v2.exe.mdb

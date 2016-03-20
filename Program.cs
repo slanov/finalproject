@@ -3,6 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 
 //why do i have so many stupid comments in my code
+//YES!!! WE ARE GO
 namespace finalproj
 {
 	public class LogBookEntry
@@ -139,7 +140,7 @@ namespace finalproj
 					Console.WriteLine ("Invalid option. Please try again.");
 					continue;
 									// error message
-				}	
+				}
 			} while (isRunning);
 		}
 	}
